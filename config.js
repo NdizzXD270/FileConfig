@@ -5,7 +5,7 @@ const config = {
 urladmin: 'https://t.me/NdizzXD',
     //SERVER 1
   domain: 'https://privatexwarx.sistems.tech', // Isi dengan domain yang digunakan
-  plta: 'ptla_fJwc2JsxeKauH6cFOJFk1ez3Qgycr8VqnsP8qVjilfA', // Isi dengan nilai plta yang sesuai
+  plta: 'ptla_3TeZRw5lHBfGJi47Lv6DC4ZtMC9BIyMl2uqyNeoWcyJ', // Isi dengan nilai plta yang sesuai
   pltc: 'ptlc_3iEzLSJQDTmkMlHGKzY7xXcmaMtbRyduObcJ0QKbeCJ', // Isi dengan nilai pltc yang sesuai
   
   //CREATE PANEL
