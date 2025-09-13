@@ -6,7 +6,7 @@ urladmin: 'https://t.me/NdizzXD',
     //SERVER 1
   domain: 'https://privatexwarx.sistems.tech', // Isi dengan domain yang digunakan
   plta: 'ptla_3TeZRw5lHBfGJi47Lv6DC4ZtMC9BIyMl2uqyNeoWcyJ', // Isi dengan nilai plta yang sesuai
-  pltc: 'ptlc_3iEzLSJQDTmkMlHGKzY7xXcmaMtbRyduObcJ0QKbeCJ', // Isi dengan nilai pltc yang sesuai
+  pltc: 'ptlc_OPsO1vrxfZtlbMJTkLdp6KTxbNTDw93ZwQj2yt6493N', // Isi dengan nilai pltc yang sesuai
   
   //CREATE PANEL
   loc: '1', // Isi dengan lokasi yang diinginkan
