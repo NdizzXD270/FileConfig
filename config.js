@@ -5,7 +5,7 @@ const config = {
 urladmin: 'https://t.me/NdizzXD',
     //SERVER 1
   domain: 'https://tristan.panelwota.my.id', // Isi dengan domain yang digunakan
-  plta: 'ptla_fkVSWq9WBuKFmY5Spjm87jTDAxGV1hQw12m43xLkh9D', // Isi dengan nilai plta yang sesuai
+  plta: 'ptla_fF9fJtP3VGHHNL0Um1v67gtrPbFDLrN7MjAT0JZ3BkS', // Isi dengan nilai plta yang sesuai
   pltc: 'ptlc_cXeUcbxAjSdCOoD3MIw0Dn3NeK9ouqjqIu5GC9nAYnX', // Isi dengan nilai pltc yang sesuai
   
   //CREATE PANEL
