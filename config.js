@@ -5,7 +5,7 @@ const config = {
 urladmin: 'https://t.me/NdizzXD',
     //SERVER 1
   domain: 'https://terizantiddos.pteroweb.my.id', // Isi dengan domain yang digunakan
-  plta: 'ptla_fF9fJtP3VGHHNL0Um1v67gtrPbFDLrN7MjAT0JZ3BkS', // Isi dengan nilai plta yang sesuai
+  plta: 'ptla_SWDJTCf7hOdTjhAHrjsaPHAbP4XtLccG3U0RMoOKOsA', // Isi dengan nilai plta yang sesuai
   pltc: 'ptlc_6aVJFNJ3PVINEvIlYZ8oVlzlzKDPqwMlVm0VuU7B6nm', // Isi dengan nilai pltc yang sesuai
   
   //CREATE PANEL
