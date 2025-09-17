@@ -6,7 +6,7 @@ urladmin: 'https://t.me/NdizzXD',
     //SERVER 1
   domain: 'https://terizantiddos.pteroweb.my.id', // Isi dengan domain yang digunakan
   plta: 'ptla_SWDJTCf7hOdTjhAHrjsaPHAbP4XtLccG3U0RMoOKOsA', // Isi dengan nilai plta yang sesuai
-  pltc: 'https://terizantiddos.pteroweb.my.id', // Isi dengan nilai pltc yang sesuai
+  pltc: 'ptlc_sjRrFGmOKinfKNBG4hDaZwpIyXNam3oArmwefJfacs5', // Isi dengan nilai pltc yang sesuai
   
   //CREATE PANEL
   loc: '1', // Isi dengan lokasi yang diinginkan
