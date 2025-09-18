@@ -4,7 +4,7 @@ const config = {
   pp: 'https://files.catbox.moe/x2a4mf.jpg',
 urladmin: 'https://t.me/NdizzXD',
     //SERVER 1
-  domain: 'https://terizantiddos.pteroweb.my.id', // Isi dengan domain yang digunakan
+  domain: 'https://kenzzprivate.naell.my.id', // Isi dengan domain yang digunakan
   plta: 'ptla_SWDJTCf7hOdTjhAHrjsaPHAbP4XtLccG3U0RMoOKOsA', // Isi dengan nilai plta yang sesuai
   pltc: 'ptlc_sjRrFGmOKinfKNBG4hDaZwpIyXNam3oArmwefJfacs5', // Isi dengan nilai pltc yang sesuai
   
