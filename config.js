@@ -6,7 +6,7 @@ urladmin: 'https://t.me/NdizzXD',
     //SERVER 1
   domain: 'https://kenzzprivate.naell.my.id', // Isi dengan domain yang digunakan
   plta: 'ptla_48r4ZaRCZxbs8oMosIJ9Ukz0uxAGQqEoKVb0IHE5Kmq', // Isi dengan nilai plta yang sesuai
-  pltc: 'ptlc_sjRrFGmOKinfKNBG4hDaZwpIyXNam3oArmwefJfacs5', // Isi dengan nilai pltc yang sesuai
+  pltc: 'ptlc_6i0283olET8UIanYdJdUGVLTMpczVYzWWG3LaGB3nD3', // Isi dengan nilai pltc yang sesuai
   
   //CREATE PANEL
   loc: '1', // Isi dengan lokasi yang diinginkan
