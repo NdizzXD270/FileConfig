@@ -5,7 +5,7 @@ const config = {
 urladmin: 'https://t.me/NdizzXD',
     //SERVER 1
   domain: 'https://kenzzprivate.naell.my.id', // Isi dengan domain yang digunakan
-  plta: 'ptla_SWDJTCf7hOdTjhAHrjsaPHAbP4XtLccG3U0RMoOKOsA', // Isi dengan nilai plta yang sesuai
+  plta: 'ptla_48r4ZaRCZxbs8oMosIJ9Ukz0uxAGQqEoKVb0IHE5Kmq', // Isi dengan nilai plta yang sesuai
   pltc: 'ptlc_sjRrFGmOKinfKNBG4hDaZwpIyXNam3oArmwefJfacs5', // Isi dengan nilai pltc yang sesuai
   
   //CREATE PANEL
