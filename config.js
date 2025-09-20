@@ -6,7 +6,7 @@ urladmin: 'https://t.me/NdizzXD',
     //SERVER 1
   domain: 'https://privatepanel.satoruuhost.tech', // Isi dengan domain yang digunakan
   plta: 'ptla_2o0Y908QAs1lNPjbtnpGGCTHDVeZmklCsvBxTi7HmjF', // Isi dengan nilai plta yang sesuai
-  pltc: 'ptlc_EEamByBmMv7bT5xiB1PJNaGgs3QRFTRt5e9pX6LFo4p', // Isi dengan nilai pltc yang sesuai
+  pltc: 'ptlc_X66C7uTvLKjJy0OC5wIleyUGl009lkfy1PLvxEwwI81', // Isi dengan nilai pltc yang sesuai
   
   //CREATE PANEL
   loc: '1', // Isi dengan lokasi yang diinginkan
