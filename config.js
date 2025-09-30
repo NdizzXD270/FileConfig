@@ -4,7 +4,7 @@ const config = {
   pp: 'https://files.catbox.moe/x2a4mf.jpg',
 urladmin: 'https://t.me/NdizzXD',
     //SERVER 1
-  domain: 'https://xwararea.publicserver.my.id', // Isi dengan domain yang digunakan
+  domain: 'https://xwarrpanell.sistems.tech', // Isi dengan domain yang digunakan
   plta: 'ptla_2YR0nL8Xo3UlbzdCpyELnHBigXFfDJQ8vklmgfcBbsW', // Isi dengan nilai plta yang sesuai
   pltc: 'ptlc_S8bQ5vTu15TVTo7PbjvTVVsgCbJdMKwYa9WiYJHOzcV', // Isi dengan nilai pltc yang sesuai
   
