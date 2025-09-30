@@ -5,7 +5,7 @@ const config = {
 urladmin: 'https://t.me/NdizzXD',
     //SERVER 1
   domain: 'https://xwarrpanell.sistems.tech', // Isi dengan domain yang digunakan
-  plta: 'ptla_2YR0nL8Xo3UlbzdCpyELnHBigXFfDJQ8vklmgfcBbsW', // Isi dengan nilai plta yang sesuai
+  plta: 'ptla_YwLe4zIePvBlsr90sDO1xdBzRcJOaAXYbVdGL31vQHP', // Isi dengan nilai plta yang sesuai
   pltc: 'ptlc_S8bQ5vTu15TVTo7PbjvTVVsgCbJdMKwYa9WiYJHOzcV', // Isi dengan nilai pltc yang sesuai
   
   //CREATE PANEL
