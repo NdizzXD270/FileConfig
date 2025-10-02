@@ -4,9 +4,9 @@ const config = {
   pp: 'https://files.catbox.moe/x2a4mf.jpg',
 urladmin: 'https://t.me/NdizzXD',
     //SERVER 1
-  domain: 'https://vvipxwarr.sistems.tech', // Isi dengan domain yang digunakan
-  plta: 'ptla_oysEvXEGfTcto3tpf1FNJxgj4ciIWMflOY5UrPYbgR9', // Isi dengan nilai plta yang sesuai
-  pltc: 'ptlc_XHURQeOvTZClH3W5wjii2qV4E5aSqgVqgceRVBJXniz', // Isi dengan nilai pltc yang sesuai
+  domain: 'https://ndizzxdprivate.sigmaboy.space/', // Isi dengan domain yang digunakan
+  plta: 'ptla_p9Q1VOOovezI9DThYsox2m4box3wkNIhhXKpvPSbzJa', // Isi dengan nilai plta yang sesuai
+  pltc: 'ptlc_Ul6B1PW9L7m3UukIYSLFLG8mhxcyeETKKIzeVbUsak3', // Isi dengan nilai pltc yang sesuai
   
   //CREATE PANEL
   loc: '1', // Isi dengan lokasi yang diinginkan
