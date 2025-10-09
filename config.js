@@ -5,7 +5,7 @@ const config = {
 urladmin: 'https://t.me/NdizzXD',
     //SERVER 1
   domain: 'https://ndizzxdprivateserver.spaced.my.id', // Isi dengan domain yang digunakan
-  plta: 'ptla_atsS1kxcyrfToX9P9Hq7GHW6LBWj2f2pVsxrgZJek6c', // Isi dengan nilai plta yang sesuai
+  plta: 'ptla_3XoDgsXvmQhQAiZM0qe8X9dRopGXnViwchn4yyde8Uq', // Isi dengan nilai plta yang sesuai
   pltc: 'ptlc_ERtSotkALwUphZYE51SOSPhtXhkvVvj0xEMaZ5w4gd9', // Isi dengan nilai pltc yang sesuai
   
   //CREATE PANEL
