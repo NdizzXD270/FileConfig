@@ -4,7 +4,7 @@ const config = {
   pp: 'https://files.catbox.moe/x2a4mf.jpg',
 urladmin: 'https://t.me/NdizzXD',
     //SERVER 1
-  domain: 'http://ndizzxdserverprivate.fansjkt48.web.id', // Isi dengan domain yang digunakan
+  domain: 'https://ndizzxdserverprivate.fansjkt48.web.id', // Isi dengan domain yang digunakan
   plta: 'ptla_upqAa2c9RlhZ6XrllAQMHHiZbEx5jiapYRshF35BBE5', // Isi dengan nilai plta yang sesuai
   pltc: 'ptlc_fcJFabDH9hENNpSLonqnzP8vMXbYlnEV9g23It0R8u5', // Isi dengan nilai pltc yang sesuai
   
